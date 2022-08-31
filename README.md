@@ -1,2 +1,2 @@
-# MoshCode
-Java Script Object Oriented Programming
+# MoshCode - JAVA SCRIPT OOP
+JavaScript Object Oriented Programming
