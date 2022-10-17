@@ -1,2 +1,2 @@
-# MoshCode - JAVA SCRIPT OOP
+# MoshCode - JAVA SCRIPT OOP for => KWASI
 JavaScript Object Oriented Programming
